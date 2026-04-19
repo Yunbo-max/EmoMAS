@@ -1,6 +1,14 @@
 # EmoMAS: Emotion-Aware Multi-Agent System for High-Stakes Edge-Deployable Negotiation with Bayesian Orchestration
 
-> 🎉 **Accepted at ACL 2026 (Main Conference, AI/LLM Agents track).** Rated top 50% of accepted papers by the area chair &mdash; roughly the top 9% of the 12,148 submissions.
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![arXiv](https://img.shields.io/badge/arXiv-TBD-b31b1b.svg)](https://arxiv.org/)
+[![ACL 2026](https://img.shields.io/badge/ACL-2026-red.svg)](https://2026.aclweb.org/)
+[![Top 9%](https://img.shields.io/badge/Top-9%25-brightgreen.svg)](https://openreview.net/forum?id=sWi6OA1sa7)
+
+> **Accepted at ACL 2026 (Main Conference, AI/LLM Agents track)** — rated top 50% of accepted papers by the area chair, roughly the top 9% of the 12,148 submissions.
+
+![EmoMAS Framework](emomas.png)
 
 EmoMAS is a Bayesian multi-agent framework that transforms emotional
 decision-making in negotiation from reactive to strategic. A Bayesian
